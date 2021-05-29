@@ -14,13 +14,13 @@
 
 [<img align="left" alt="Tam | LinkedIn" height="22px" src="./social-logo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Tam | Outlook" height="22px" src="./social-logo/Outlook.png" />][outlook]
-[<img align="left" alt="Tam | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
-[<img align="left" alt="Tam | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Tam | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Tam | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
-[<img align="left" alt="Tam | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Tam | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
-[<img align="left" alt="Tam | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
+[<img align="left" alt="Tam | Whatsapp" height="22px" src="./social-logo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Tam | Telegram" height="22px" src="./social-logo/Telegram.png" />][telegram]
+[<img align="left" alt="Tam | Twitter" height="22px" src="./social-logo/Twitter.png" />][twitter]
+[<img align="left" alt="Tam | Skype" height="22px" src="./social-logo/Skype.png" />][skype]
+[<img align="left" alt="Tam | Facebook" height="22px" src="./social-logo/Facebook.png" />][facebook]
+[<img align="left" alt="Tam | Messenger" height="22px" src="./social-logo/Messenger.png" />][messenger]
+[<img align="left" alt="Tam | Instagram" height="22px" src="./social-logo/Instagram.png" />][instagram]
 
 <br />
 
