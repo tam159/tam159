@@ -57,6 +57,24 @@
 <img alt="kafka" width="26px" src="./tech-logo/Kafka.jpg">
 </code>](https://kafka.apache.org/)
 [<code>
+<img alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png">
+</code>](https://www.docker.com/)
+[<code>
+<img alt="kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png">
+</code>](https://kubernetes.io/)
+[<code>
+<img alt="tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png">
+</code>](https://www.tensorflow.org/)
+[<code>
+<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
+</code>](https://www.postgresql.org/)
+[<code>
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
+[<code>
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
+[<code>
 <img alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 </code>](https://aws.amazon.com/)
 [<code>
@@ -65,18 +83,6 @@
 [<code>
 <img alt="gcp" width="26px" src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
 </code>](https://cloud.google.com/)
-[<code>
-<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-</code>](https://www.postgresql.org/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
 [<code>
 <img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
 </code>](https://www.jetbrains.com/pycharm/)
