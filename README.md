@@ -42,14 +42,8 @@
 <img alt="scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png">
 </code>](https://www.scala-lang.org/)
 [<code>
-<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
-</code>](https://www.jetbrains.com/pycharm/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
+<img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
+</code>](https://en.wikipedia.org/wiki/SQL)
 [<code>
 <img alt="spark" width="26px" src="./tech-logo/Spark.jpeg">
 </code>](https://spark.apache.org/)
@@ -63,29 +57,41 @@
 <img alt="kafka" width="26px" src="./tech-logo/Kafka.png">
 </code>](https://kafka.apache.org/)
 [<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
+<img alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+</code>](https://aws.amazon.com/)
+[<code>
+<img alt="azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png">
+</code>](https://azure.microsoft.com//)
+[<code>
+<img alt="gcp" width="26px" src="https://img.icons8.com/fluent/48/000000/google-cloud.png">
+</code>](https://cloud.google.com/)
+[<code>
+<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
+</code>](https://www.postgresql.org/)
 [<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 [<code>
-<img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
-</code>](https://www.latex-project.org/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
+<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</code>](https://github.com/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
+<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />
+</code>](https://www.jetbrains.com/pycharm/)
+[<code>
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</code>](https://www.jetbrains.com/idea/)
+[<code>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+</code>](https://code.visualstudio.com/)
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 [<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</code>](https://www.kernel.org/)
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
@@ -93,8 +99,9 @@
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
 </code>](https://developer.apple.com/macos/)
 [<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
+</code>](https://www.microsoft.com/en-us/windows)
+
 
 ---
 
