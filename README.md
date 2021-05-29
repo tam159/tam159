@@ -13,7 +13,14 @@
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="Tam | LinkedIn" height="22px" src="./social-logo/LinkedIn.png" />][linkedin]
-
+[<img align="left" alt="Tam | Outlook" height="22px" src="./social-logo/Outlook.png" />][outlook]
+[<img align="left" alt="Tam | Whatsapp" height="22px" src="./SocialLogo/WhatsApp.png" />][whatsapp]
+[<img align="left" alt="Tam | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
+[<img align="left" alt="Tam | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
+[<img align="left" alt="Tam | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
+[<img align="left" alt="Tam | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
+[<img align="left" alt="Tam | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
+[<img align="left" alt="Tam | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
 
@@ -22,3 +29,15 @@
 </p>
 
 ---
+
+---
+
+[linkedin]: https://www.linkedin.com/in/tam-nguyenphuc/
+[outlook]: mailto:npt.dc@outlook.com
+[whatsapp]: https://wa.me/84968985355
+[telegram]: https://telegram.me/tam_159
+[twitter]: https://twitter.com/NpT_Dc
+[skype]: https://join.skype.com/invite/pUowr2CfAySJ
+[facebook]: https://www.facebook.com/phuctam.info/
+[messenger]: https://www.facebook.com/phuctam.info/
+[instagram]: https://www.instagram.com/npt_dc/
