@@ -30,7 +30,7 @@
 
 ---
 
-### Languages and Tools:
+### Technologies:
 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -69,9 +69,6 @@
 <img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
 </code>](https://www.postgresql.org/)
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
@@ -92,15 +89,6 @@
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
 
 
 ---
