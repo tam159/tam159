@@ -45,16 +45,16 @@
 <img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
 </code>](https://en.wikipedia.org/wiki/SQL)
 [<code>
-<img alt="spark" width="26px" src="./tech-logo/Spark.jpeg">
+<img alt="spark" width="26px" src="./tech-logo/Spark.png">
 </code>](https://spark.apache.org/)
 [<code>
 <img alt="flink" width="26px" src="./tech-logo/Flink.png">
 </code>](https://flink.apache.org/)
 [<code>
-<img alt="beam" width="26px" src="./tech-logo/Beam.jpg">
+<img alt="beam" width="26px" src="./tech-logo/Beam.jpeg">
 </code>](https://beam.apache.org/)
 [<code>
-<img alt="kafka" width="26px" src="./tech-logo/Kafka.png">
+<img alt="kafka" width="26px" src="./tech-logo/Kafka.jpg">
 </code>](https://kafka.apache.org/)
 [<code>
 <img alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
