@@ -5,12 +5,12 @@
 ## I'm a funny dad, gym lover and big data engineer!
 
 - 🔭 I’m currently working in a data field
-- 🌱 I’m currently learning MLOps
+- 🌱 I’m currently learning MLOps and Lakehouse architecture
 - 👯 I’m looking to collaborate with other data engineers
 - 🥅 2021 Goal: do not get COVID
 - ⚡ Fun fact:  I'm not a funny engineer
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+##<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
 
 [<img align="left" alt="Tam | LinkedIn" height="22px" src="./social-logo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Tam | Outlook" height="22px" src="./social-logo/Outlook.png" />][outlook]
@@ -22,15 +22,7 @@
 [<img align="left" alt="Tam | Messenger" height="22px" src="./social-logo/Messenger.png" />][messenger]
 [<img align="left" alt="Tam | Instagram" height="22px" src="./social-logo/Instagram.png" />][instagram]
 
-<br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
-
----
-
-### Technologies:
+## 🔧 Technologies
 
 [<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
@@ -93,9 +85,18 @@
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 
+## 📝 Writing
 
----
+[Streaming Data Pipelines on Cloud Platforms: AWS and GCP][streaming-data-pipeline]
 
+## 💻 Project
+
+<a href="https://github.com/tam159/data-architecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=data-architecture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/tam-nguyenphuc/
 [outlook]: mailto:npt.dc@outlook.com
@@ -106,3 +107,4 @@
 [facebook]: https://www.facebook.com/phuctam.info/
 [messenger]: https://www.facebook.com/phuctam.info/
 [instagram]: https://www.instagram.com/npt_dc/
+[streaming-data-pipeline]: https://www.linkedin.com/pulse/streaming-data-pipelines-cloud-platforms-aws-gcp-tam-nguyen/
