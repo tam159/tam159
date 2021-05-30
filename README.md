@@ -10,7 +10,7 @@
 - 🥅 2021 Goal: do not get COVID
 - ⚡ Fun fact:  I'm not a funny engineer
 
-##<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
 
 [<img align="left" alt="Tam | LinkedIn" height="22px" src="./social-logo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Tam | Outlook" height="22px" src="./social-logo/Outlook.png" />][outlook]
@@ -21,6 +21,8 @@
 [<img align="left" alt="Tam | Facebook" height="22px" src="./social-logo/Facebook.png" />][facebook]
 [<img align="left" alt="Tam | Messenger" height="22px" src="./social-logo/Messenger.png" />][messenger]
 [<img align="left" alt="Tam | Instagram" height="22px" src="./social-logo/Instagram.png" />][instagram]
+
+<br />
 
 ## 🔧 Technologies
 
