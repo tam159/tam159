@@ -1,1 +1,3 @@
+:sparkles: Add feature  :wrench: Update  :recycle: Refactor  :bug: Fix bug  :pencil2: Fix typo  :heavy_minus_sign:   :mute: Remove  :fire: Clean  :zap: ️Improve  :memo: Add docs  :page_facing_up: Add license  :bookmark: Release  :white_check_mark: Check/Test  :art: Add style/template  :arrow_up: Upgrade  :twisted_rightwards_arrows: Merge  :construction_worker: CI/CD :building_construction: Build  :rocket: Deploy  :green_heart: Make  :pushpin: Pin  :lock: Create security policy
+
 ✨ Add feature 🔧 Update ♻️ Refactor 🐛 Fix bug ✏️ Fix typo ➖ 🔇 Remove 🔥 Clean ⚡ ️Improve 📝 Add docs 📄 Add license 🔖 Release ✅ Check/Test 🎨 Add style/template ⬆️ Upgrade 🔀 Merge 👷 CI/CD 🏗️ Build 🚀 Deploy 💚 Make 📌 Pin 🔒 Create security policy
