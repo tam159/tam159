@@ -93,12 +93,12 @@
 
 ## 💻 Projects
 
-<a href="https://github.com/tam159/twitter_airflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=twitter_airflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/tam159/mlops">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=mlops&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/tam159/twitter_api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=twitter_api&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/tam159/twitter_airflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=twitter_airflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links -->
