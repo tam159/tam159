@@ -89,6 +89,8 @@
 
 ## 📝 Writing
 
+[ML workflow with Airflow, MLflow and SageMaker][ml-workflow]
+
 [Streaming Data Pipelines on Cloud Platforms: AWS and GCP][streaming-data-pipeline]
 
 ## 💻 Projects
@@ -112,4 +114,5 @@
 [facebook]: https://www.facebook.com/phuctam.info/
 [messenger]: https://www.facebook.com/phuctam.info/
 [instagram]: https://www.instagram.com/npt_dc/
-[streaming-data-pipeline]: https://www.linkedin.com/pulse/streaming-data-pipelines-cloud-platforms-aws-gcp-tam-nguyen/
+[ml-workflow]: https://tam159.medium.com/ml-workflow-with-airflow-mlflow-and-sagemaker-ad076e5f614b
+[streaming-data-pipeline]: https://www.linkedin.com/pulse/streaming-data-pipelines-cloud-platforms-aws-gcp-tam-nguyen
