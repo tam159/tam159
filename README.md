@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in a Lake House architecture with Delta Lake
 - 🌱 I’m now building ML workflow and MLOps platform
-- 👯 I’m looking to collaborate with other data engineers
+- 👯 I’m looking to collaborate with other data practitioners
 - 🥅 2021 Goal: do not get COVID
 - ⚡ Fun fact:  I'm not a funny engineer
 
