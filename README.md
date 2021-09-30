@@ -4,8 +4,8 @@
 
 ## I'm a funny dad, gym lover and big data engineer!
 
-- 🔭 I’m currently working in a data field
-- 🌱 I’m currently learning MLOps and Lakehouse architecture
+- 🔭 I’m currently working in a Lake House architecture with Delta Lake
+- 🌱 I’m now building ML workflow and MLOps platform
 - 👯 I’m looking to collaborate with other data engineers
 - 🥅 2021 Goal: do not get COVID
 - ⚡ Fun fact:  I'm not a funny engineer
