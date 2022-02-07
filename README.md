@@ -4,10 +4,10 @@
 
 ## I'm a funny dad, gym lover and big data engineer!
 
-- 🔭 I’m currently working in a Lake House architecture with Delta Lake
+- 🔭 I’m currently working in a Data Lakehouse architecture with Delta Lake
 - 🌱 I’m now building ML workflow and MLOps platform
 - 👯 I’m looking to collaborate with other data practitioners
-- 🥅 2021 Goal: do not get COVID
+- 🥅 2022 Goal: do not get COVID
 - ⚡ Fun fact:  I'm not a funny engineer
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
