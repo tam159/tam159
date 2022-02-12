@@ -102,7 +102,7 @@
 
 <!-- links -->
 
-[linkedin]: https://www.linkedin.com/in/tam-nguyenphuc/
+[linkedin]: https://www.linkedin.com/in/tam159
 [outlook]: mailto:npt.dc@outlook.com
 [whatsapp]: https://wa.me/84968985355
 [telegram]: https://telegram.me/tam_159
