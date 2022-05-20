@@ -7,7 +7,7 @@
 - 🔭 I’m currently working in a Data Lakehouse architecture with Delta Lake
 - 🌱 I’m now building ML workflow and MLOps platform
 - 👯 I’m looking to collaborate with other data practitioners
-- 🥅 2022 Goal: do not get COVID
+- 🥅 2022 Goal: spend at least 30 minutes every day to study English and Math with my little daughter 
 - ⚡ Fun fact:  I'm not a funny engineer
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
