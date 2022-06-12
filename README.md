@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/tam159/tam159/master/doing-data-engineering-banner.png "Header")](https://www.linkedin.com/in/tam-nguyenphuc/)
 
-# Hello <img src="https://raw.githubusercontent.com/tam159/tam159/master/wave.gif" width="30px">
-
+# <img src="https://raw.githubusercontent.com/tam159/tam159/master/hello.gif" width="100px">
+# ![Hello](hello.gif )
 ## I'm a funny dad, gym lover and big data engineer!
 
 - 🔭 I’m currently working in a Data Lakehouse architecture with Delta Lake
