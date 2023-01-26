@@ -25,45 +25,25 @@
 
 ## 🔧 Technologies
 
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png">
-</code>](https://www.scala-lang.org/)
-[<code>
-<img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>
-</code>](https://en.wikipedia.org/wiki/SQL)
-[<code>
-<img alt="spark" width="26px" src="./tech-logo/Spark.png">
-</code>](https://spark.apache.org/)
-[<code>
-<img alt="flink" width="26px" src="./tech-logo/Flink.png">
-</code>](https://flink.apache.org/)
-[<code>
-<img alt="beam" width="26px" src="./tech-logo/Beam.jpeg">
-</code>](https://beam.apache.org/)
-[<code>
-<img alt="kafka" width="26px" src="./tech-logo/Kafka.jpg">
-</code>](https://kafka.apache.org/)
-[<code>
-<img alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png">
-</code>](https://www.docker.com/)
-[<code>
-<img alt="kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png">
-</code>](https://kubernetes.io/)
-[<code>
-<img alt="tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png">
-</code>](https://www.tensorflow.org/)
-[<code>
-<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">
-</code>](https://www.postgresql.org/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+[<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
+[<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
+[<img alt="scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png">](https://www.scala-lang.org/)
+[<img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>](https://en.wikipedia.org/wiki/SQL)
+[<img alt="spark" width="26px" src="./tech-logo/Spark.png">](https://spark.apache.org/)
+[<img alt="flink" width="26px" src="./tech-logo/Flink.png">](https://flink.apache.org/)
+[<img alt="beam" width="26px" src="./tech-logo/Beam.jpeg">](https://beam.apache.org/)
+[<img alt="kafka" width="26px" src="./tech-logo/Kafka.jpg">](https://kafka.apache.org/)
+[<img alt="docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png">](https://www.docker.com/)
+[<img alt="kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png">](https://kubernetes.io/)
+[<img alt="tensorflow" width="26px" src="https://img.icons8.com/color/48/000000/tensorflow.png">](https://www.tensorflow.org/)
+[<img alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png">](https://www.postgresql.org/)
+[<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">](https://www.kernel.org/)
+[<img alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">](https://aws.amazon.com/)
+[<img alt="azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png">](https://azure.microsoft.com//)
+[<img alt="gcp" width="26px" src="https://img.icons8.com/fluent/48/000000/google-cloud.png">](https://cloud.google.com/)
+[<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
+[<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
+[<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 
 ## 📝 Writing
 
