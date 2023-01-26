@@ -3,10 +3,10 @@
 # ![Hello](hello-chick.gif )
 ## I'm a funny dad, gym lover and big data engineer!
 
-- 🔭 I’m currently working in a Data Lakehouse architecture with Delta Lake
-- 🌱 I’m now building ML workflow and MLOps platform
+- 🔭 I’m currently working in a data lakehouse architecture, data mesh, data contract, data quality, .etc 
+- 🌱 I’m now building ML workflow and MLOps platform with Rust
 - 👯 I’m looking to collaborate with other data practitioners
-- 🥅 2022 Goal: spend at least 30 minutes every day to study English and Math with my little daughter 
+- 🥅 2023 Goal: Work out and study with my little daughter everyday 
 - ⚡ Fun fact:  I'm not a funny engineer
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
