@@ -25,6 +25,7 @@
 
 ## 🔧 Technologies
 
+[<img alt="rust" width="26px" src="./tech-logo/Rust.png">](https://www.rust-lang.org/)
 [<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
 [<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
 [<img alt="scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png">](https://www.scala-lang.org/)
