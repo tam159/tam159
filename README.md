@@ -1,11 +1,12 @@
-[![Header](https://raw.githubusercontent.com/tam159/tam159/master/doing-data-engineering-banner.png "Header")](https://www.linkedin.com/in/tam-nguyenphuc/)
+[![Header](https://raw.githubusercontent.com/tam159/tam159/master/doing-data-engineering-banner.png "Header")](https://www.linkedin.com/in/tam159)
 
 # ![Hello](hello-chick.gif )
-## I'm a funny dad, gym lover and big data engineer!
+## I'm a funny dad, gym lover and machine learning engineer!
 
-- 🔭 I’m currently working in a data lakehouse architecture, data mesh, data contract, data quality, .etc 
-- 🌱 I’m now building ML workflow and MLOps platform with Rust
-- 👯 I’m looking to collaborate with other data practitioners
+- 🔭 I’m currently working in generative AI such as image generation, LLM, NLP, MLOps, and data science & analytics, .etc
+- 💪🏼 I have a strong background in a big data engineering including data lakehouse, data fabric and  data mesh architecture, .etc
+- 🌱 I’m now building LLM application, ML workflow and MLOps platform with Python & Rust
+- 👯 I’m looking to collaborate with other AI/ML, data practitioners
 - 🥅 2023 Goal: Work out and study with my little daughter everyday 
 - ⚡ Fun fact:  I'm not a funny engineer
 
@@ -55,13 +56,14 @@
 
 ## 💻 Projects
 
+<a href="https://github.com/tam159/generative_ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=generative_ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/tam159/mlops">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=mlops&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/tam159/data-architecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=data-architecture&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!-- links -->
 
