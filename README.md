@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/tam159/tam159/master/doing-data-engineering-banner.png "Header")](https://www.linkedin.com/in/tam159)
+[![Header](media/man-working.webp "Header")](https://www.linkedin.com/in/tam159)
 
-# ![Hello](hello-chick.gif )
+# ![Hello](media/hello-chick.gif )
 ## I'm a funny dad, gym lover and machine learning engineer!
 
 - 🔭 I’m currently working in generative AI such as image generation, LLM, NLP, MLOps, and data science & analytics, .etc
