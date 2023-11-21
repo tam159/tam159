@@ -49,6 +49,7 @@
 
 ## 📝 Writing
 
+- [9 Methods to Enhance the Performance of a LLM RAG Application][llm-rag]
 - [Road to Lakehouse - Part 1: Delta Lake data pipeline overview][lakehouse1]
 - [Road to Lakehouse - Part 2: Ingest and process data from Kafka with CDC and Delta Lake’s CDF][lakehouse2]
 - [ML workflow with Airflow, MLflow and SageMaker][ml-workflow]
@@ -76,6 +77,7 @@
 [facebook]: https://www.facebook.com/phuctam.info/
 [messenger]: https://www.facebook.com/phuctam.info/
 [instagram]: https://www.instagram.com/npt_dc/
+[llm-rag]: https://www.linkedin.com/pulse/9-methods-enhance-performance-llm-rag-application-tam-nguyen-ooljc
 [lakehouse1]: https://www.linkedin.com/pulse/road-lakehouse-part-1-delta-lake-data-pipeline-overview-tam-nguyen
 [lakehouse2]: https://tam159.medium.com/road-to-lakehouse-part-2-ingest-and-process-data-from-kafka-with-cdc-and-delta-lakes-cdf-318708468a47
 [ml-workflow]: https://tam159.medium.com/ml-workflow-with-airflow-mlflow-and-sagemaker-ad076e5f614b
