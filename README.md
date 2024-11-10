@@ -1,13 +1,13 @@
 [![Header](media/man-working.webp "Header")](https://www.linkedin.com/in/tam159)
 
 # ![Hello](media/hello-chick.gif )
-## I'm a funny dad, gym lover and machine learning engineer!
+## I'm a funny dad, gym lover and AI/ML engineer!
 
-- 🔭 I’m currently working in generative AI such as image generation, LLM, NLP, MLOps, and data science & analytics, .etc
-- 💪🏼 I have a strong background in a big data engineering including data lakehouse, data fabric and  data mesh architecture, .etc
-- 🌱 I’m now building LLM application, ML workflow and MLOps platform with Python & Rust
-- 👯 I’m looking to collaborate with other AI/ML, data practitioners
-- 🥅 2023 Goal: Work out and study with my little daughter everyday 
+- 🔭 I’m currently working in generative AI such as agentic application, OCR/IDP, image generation, MLOps, data science & analytics, .etc
+- 💪🏼 I have a strong background in software and a big data engineering including data lakehouse, data fabric and  data mesh architecture, .etc
+- 🌱 I’m now building multi-agent systems with LLM, LLMOps and ML workflow in Python & Rust
+- 👯 I’m looking to collaborate with other GenAI, ML, data practitioners
+- 🥅 2024 Goal: Work out and study with my little daughter everyday 
 - ⚡ Fun fact:  I'm not a funny engineer
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
@@ -49,7 +49,8 @@
 
 ## 📝 Writing
 
-- [9 Methods to Enhance the Performance of a LLM RAG Application][llm-rag]
+- [Road to Lakehouse - Part 3: Data Analytics with Generative AI][spark-ai]
+- [9 Methods to Enhance the Performance of an LLM RAG Application][llm-rag]
 - [Road to Lakehouse - Part 1: Delta Lake data pipeline overview][lakehouse1]
 - [Road to Lakehouse - Part 2: Ingest and process data from Kafka with CDC and Delta Lake’s CDF][lakehouse2]
 - [ML workflow with Airflow, MLflow and SageMaker][ml-workflow]
@@ -77,6 +78,7 @@
 [facebook]: https://www.facebook.com/phuctam.info/
 [messenger]: https://www.facebook.com/phuctam.info/
 [instagram]: https://www.instagram.com/npt_dc/
+[spark-ai]: https://www.linkedin.com/pulse/road-lakehouse-part-3-data-analytics-generative-ai-tam-nguyen-jy8hc
 [llm-rag]: https://www.linkedin.com/pulse/9-methods-enhance-performance-llm-rag-application-tam-nguyen-ooljc
 [lakehouse1]: https://www.linkedin.com/pulse/road-lakehouse-part-1-delta-lake-data-pipeline-overview-tam-nguyen
 [lakehouse2]: https://tam159.medium.com/road-to-lakehouse-part-2-ingest-and-process-data-from-kafka-with-cdc-and-delta-lakes-cdf-318708468a47
