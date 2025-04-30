@@ -1,14 +1,14 @@
 [![Header](media/man-working.webp "Header")](https://www.linkedin.com/in/tam159)
 
 # ![Hello](media/hello-chick.gif )
-## I'm a funny dad, gym lover and AI/ML engineer!
+## Hi there! I'm a gym-loving dad and AI/ML engineer with a passion for generative AI.
 
-- 🔭 I’m currently working in generative AI such as agentic application, OCR/IDP, image generation, MLOps, data science & analytics, .etc
-- 💪🏼 I have a strong background in software and a big data engineering including data lakehouse, data fabric and  data mesh architecture, .etc
-- 🌱 I’m now building multi-agent systems with LLM, LLMOps and ML workflow in Python & Rust
-- 👯 I’m looking to collaborate with other GenAI, ML, data practitioners
-- 🥅 2024 Goal: Work out and study with my little daughter everyday 
-- ⚡ Fun fact:  I'm not a funny engineer
+- 🔭 Working on cutting-edge generative AI projects, from agentic applications and OCR/IDP to LLMOps, ML workflows, data science, and analytics.
+- 💪🏼 Bringing a strong software and big data engineering background, including data lakehouse, data fabric, and data mesh architectures.
+- 🌱 Actively building agentic AI systems using multi-agent and long-term memory architectures, MCP, A2A, RAG, fine-tuning and knowledge graphs.
+- 👯 Seeking collaboration with fellow practitioners in generative AI, ML, and data science.
+- 🥅 2025 goal: exercise daily and learn alongside my daughter.
+- ⚡ Fun fact: I’m an engineer who’s not very funny (at least not yet)!
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
 
@@ -26,10 +26,12 @@
 
 ## 🔧 Technologies
 
-[<img alt="rust" width="26px" src="./tech-logo/Rust.png">](https://www.rust-lang.org/)
+[<img alt="langgraph" width="26px" src="./tech-logo/langchain.avif">](https://www.langchain.com/langgraph)
+[<img alt="adk" width="26px" src="./tech-logo/agent-development-kit.png">](https://google.github.io/adk-docs)
+[<img alt="openai" width="26px" src="https://img.icons8.com/?id=ka3InxFU3QZa&format=png&color=000000">](https://openai.com)
+[<img alt="gemini" width="26px" src="./tech-logo/google-gemini.webp">](https://gemini.google.com)
+[<img alt="typescript" width="26px" src="https://img.icons8.com/?id=HcQEdKCkXUs3&format=png&color=000000">](https://www.typescriptlang.org/)
 [<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
-[<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">](https://docs.oracle.com/en/java/)
-[<img alt="scala" width="26px" src="https://img.icons8.com/dusk/64/000000/scala.png">](https://www.scala-lang.org/)
 [<img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>](https://en.wikipedia.org/wiki/SQL)
 [<img alt="spark" width="26px" src="./tech-logo/Spark.png">](https://spark.apache.org/)
 [<img alt="flink" width="26px" src="./tech-logo/Flink.png">](https://flink.apache.org/)
@@ -44,7 +46,7 @@
 [<img alt="azure" width="26px" src="https://img.icons8.com/color/48/000000/azure-1.png">](https://azure.microsoft.com//)
 [<img alt="gcp" width="26px" src="https://img.icons8.com/fluent/48/000000/google-cloud.png">](https://cloud.google.com/)
 [<img alt="pycharm" width="26px" src="https://img.icons8.com/color/240/000000/pycharm.png" />](https://www.jetbrains.com/pycharm/)
-[<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />](https://www.jetbrains.com/idea/)
+[<img alt="webstorm idea" width="26px" src="https://img.icons8.com/?id=32sNCVhNAx9Y&format=png&color=000000" />](https://www.jetbrains.com/webstorm/)
 [<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)
 
 ## 📝 Writing
@@ -73,7 +75,7 @@
 [outlook]: mailto:npt.dc@outlook.com
 [whatsapp]: https://wa.me/84968985355
 [telegram]: https://telegram.me/tam_159
-[twitter]: https://twitter.com/NpT_Dc
+[twitter]: https://x.com/NpT_Dc
 [skype]: https://join.skype.com/invite/pUowr2CfAySJ
 [facebook]: https://www.facebook.com/phuctam.info/
 [messenger]: https://www.facebook.com/phuctam.info/
