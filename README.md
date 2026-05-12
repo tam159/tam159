@@ -1,14 +1,28 @@
 [![Header](media/man-working.webp "Header")](https://www.linkedin.com/in/tam159)
 
 # ![Hello](media/hello-chick.gif )
-## Hi there! I'm a gym-loving dad and AI/ML engineer with a passion for generative AI.
+## Dad | Lifelong Fitness | AI Engineer
 
-- 🔭 Working on cutting-edge generative AI projects, from agentic applications and OCR/IDP to LLMOps, ML workflows, data science, and analytics.
-- 💪🏼 Bringing a strong software and big data engineering background, including data lakehouse, data fabric, and data mesh architectures.
-- 🌱 Actively building agentic AI systems using multi-agent and long-term memory architectures, MCP, A2A, RAG, fine-tuning and knowledge graphs.
-- 👯 Seeking collaboration with fellow practitioners in generative AI, ML, and data science.
-- 🥅 2025 goal: exercise daily and learn alongside my daughter.
-- ⚡ Fun fact: I’m an engineer who’s not very funny (at least not yet)!
+⚡ I’m an AI/ML Engineer currently obsessed with moving beyond "chat" and toward Agentic AI. My background is rooted in Big Data and Software Engineering, which I use to build robust, production-grade autonomous systems.
+
+### 🔭 Current Focus: Agentic AI
+I’m spending my time architecting systems that don't just talk, but act.
+- Architectures: Multi-agent systems, Long-term memory, and Knowledge Graphs.
+- Connectivity: Implementing MCP (Model Context Protocol) and A2A (Agent-to-Agent) communication.
+- Optimization: RAG, fine-tuning, and LLMOps for agent reliability and scalability.
+
+### 💪🏼 The Foundation
+Before agents, I built the "brains" and "nervous systems" for data.
+- Deep expertise in Data Lakehouse, Data Fabric, and Data Mesh.
+- Hands-on with OCR/IDP, ADP (Agentic Document Processing) and complex ML workflows.
+
+### 🥅 2026 Goals
+- Personal: Daily gym session (no rest days for the mind or body).
+- Fatherhood: Exploring and learning something every day with my daughter.
+- The Quest: Proving that engineers can be funny. Current status: `Humor.exe` is still compiling 🌱.
+
+### 👯 Let’s Connect
+I’m always looking to collaborate with fellow practitioners in Generative AI, ML, and Data Science. If you're building agents or scaling data, let's talk!
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"> Contacts
 
@@ -26,10 +40,12 @@
 
 ## 🔧 Technologies
 
-[<img alt="langgraph" width="26px" src="./tech-logo/langchain.avif">](https://www.langchain.com/langgraph)
+[<img alt="langgraph" width="26px" src="./tech-logo/langchain-logo.png">](https://github.com/langchain-ai/langgraph)
+[<img alt="mcp" width="26px" src="./tech-logo/MCP-logo.png">](https://github.com/modelcontextprotocol)
 [<img alt="adk" width="26px" src="./tech-logo/agent-development-kit.png">](https://google.github.io/adk-docs)
-[<img alt="openai" width="26px" src="https://img.icons8.com/?id=ka3InxFU3QZa&format=png&color=000000">](https://openai.com)
-[<img alt="gemini" width="26px" src="./tech-logo/google-gemini.webp">](https://gemini.google.com)
+[<img alt="anthropic" width="26px" src="./tech-logo/claude-logo.svg">](https://www.anthropic.com)
+[<img alt="openai" width="26px" src="./tech-logo/gpt-logo.webp">](https://openai.com)
+[<img alt="gemini" width="26px" src="./tech-logo/gemini-logo.png">](https://github.com/google-gemini)
 [<img alt="typescript" width="26px" src="https://img.icons8.com/?id=HcQEdKCkXUs3&format=png&color=000000">](https://www.typescriptlang.org/)
 [<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)
 [<img alt="sql" width="26px" src="https://img.icons8.com/color/48/000000/sql.png"/>](https://en.wikipedia.org/wiki/SQL)
@@ -57,16 +73,6 @@
 - [Road to Lakehouse - Part 2: Ingest and process data from Kafka with CDC and Delta Lake’s CDF][lakehouse2]
 - [ML workflow with Airflow, MLflow and SageMaker][ml-workflow]
 - [Streaming Data Pipelines on Cloud Platforms: AWS and GCP][streaming-data-pipeline]
-
-## 💻 Projects
-
-<a href="https://github.com/tam159/generative_ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=generative_ai&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/tam159/mlops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tam159&repo=mlops&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 
 <!-- links -->
