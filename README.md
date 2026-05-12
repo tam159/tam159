@@ -1,4 +1,4 @@
-[![Header](media/man-working.webp "Header")](https://www.linkedin.com/in/tam159)
+[![Header](media/man-working-v2.png "Header")](https://www.linkedin.com/in/tam159)
 
 # ![Hello](media/hello-chick.gif )
 ## Dad | Lifelong Fitness | AI Engineer
@@ -19,7 +19,7 @@ Before agents, I built the "brains" and "nervous systems" for data.
 ### 🥅 2026 Goals
 - Personal: Daily gym session (no rest days for the mind or body).
 - Fatherhood: Exploring and learning something every day with my daughter.
-- The Quest: Proving that engineers can be funny. Current status: `Humor.exe` is still compiling 🌱.
+- The Quest: Proving that engineers can be funny. Current status: `Humor.exe` is still compiling. 🌱
 
 ### 👯 Let’s Connect
 I’m always looking to collaborate with fellow practitioners in Generative AI, ML, and Data Science. If you're building agents or scaling data, let's talk!
