@@ -67,6 +67,7 @@ I’m always looking to collaborate with fellow practitioners in Generative AI, 
 
 ## 📝 Writing
 
+- [What a Knowledge Base Actually Looks Like][kb-ai]
 - [Road to Lakehouse - Part 3: Data Analytics with Generative AI][spark-ai]
 - [9 Methods to Enhance the Performance of an LLM RAG Application][llm-rag]
 - [Road to Lakehouse - Part 1: Delta Lake data pipeline overview][lakehouse1]
@@ -87,6 +88,7 @@ I’m always looking to collaborate with fellow practitioners in Generative AI, 
 [messenger]: https://www.facebook.com/phuctam.info/
 [instagram]: https://www.instagram.com/npt_dc/
 [spark-ai]: https://www.linkedin.com/pulse/road-lakehouse-part-3-data-analytics-generative-ai-tam-nguyen-jy8hc
+[kb-ai]: https://tam159.medium.com/what-a-knowledge-base-actually-looks-like-a091f569261a
 [llm-rag]: https://www.linkedin.com/pulse/9-methods-enhance-performance-llm-rag-application-tam-nguyen-ooljc
 [lakehouse1]: https://www.linkedin.com/pulse/road-lakehouse-part-1-delta-lake-data-pipeline-overview-tam-nguyen
 [lakehouse2]: https://tam159.medium.com/road-to-lakehouse-part-2-ingest-and-process-data-from-kafka-with-cdc-and-delta-lakes-cdf-318708468a47
