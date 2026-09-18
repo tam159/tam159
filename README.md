@@ -70,8 +70,8 @@ I’m always looking to collaborate with fellow practitioners in Generative AI, 
 - [What a Knowledge Base Actually Looks Like][kb-ai]
 - [Road to Lakehouse - Part 3: Data Analytics with Generative AI][spark-ai]
 - [9 Methods to Enhance the Performance of an LLM RAG Application][llm-rag]
-- [Road to Lakehouse - Part 1: Delta Lake data pipeline overview][lakehouse1]
 - [Road to Lakehouse - Part 2: Ingest and process data from Kafka with CDC and Delta Lake’s CDF][lakehouse2]
+- [Road to Lakehouse - Part 1: Delta Lake data pipeline overview][lakehouse1]
 - [ML workflow with Airflow, MLflow and SageMaker][ml-workflow]
 - [Streaming Data Pipelines on Cloud Platforms: AWS and GCP][streaming-data-pipeline]
 
